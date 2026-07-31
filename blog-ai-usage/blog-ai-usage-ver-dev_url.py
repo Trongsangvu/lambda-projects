@@ -6,8 +6,6 @@ from datetime import datetime, timedelta, timezone
 import time
 import os
 
-# https://devapi.3flab.vn
-
 # ============================================================
 # Logging
 # ============================================================
